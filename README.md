@@ -1,2 +1,2 @@
 # mycourse
-E-Learning 
+E-Learning SCS 1
